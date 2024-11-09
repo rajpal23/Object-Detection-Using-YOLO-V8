@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/yolo training/yolo-V8/images_to_train/train
+val: /content/drive/MyDrive/yolo training/yolo-V8/images_to_train/val
+nc: 20
+names: ['person', 'chair', 'car', 'dog', 'bottle', 'cat', 'pottedplant', 'sheep', 'boat', 'aeroplane', 'tvmonitor', 'bird', 'sofa', 'bicycle', 'horse', 'diningtable', 'motorbike', 'cow', 'train', 'bus']
